@@ -1,0 +1,10 @@
+.style {
+    
+    display: grid;
+    width: 400px;
+    height: 400px;
+    grid-template-columns: 200px 200px;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+}
+
